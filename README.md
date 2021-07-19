@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohammad-javad-tavana-elmi
-- 👀 I’m interested in Back end programming.
+- 👀 I’m interested in Backend programming.
 - 🌱 I’m currently learning php && java
-- 📫 How to reach me @m_j_t_e on telgram
+- 📫 How to reach me on telgram:@m_j_t_e 
 
 <!---
 mohammad-javad-tavana-elmi/mohammad-javad-tavana-elmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
